@@ -1,3 +1,48 @@
-body{
-  background-color: yellow
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
+body,html{
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+h4{
+
+}
+
+h1{
+
+}
+
+h3{
+
+}
+
+.hero-banner{
+  background-color: #007FFF;
+  height: 100vh;
+}
+
+.wrapper{
+
+}
+
+a.cta , button.cta{
+
+}
+
+a.cta.alt , button.cta.alt{
+
+}
+
+.charecter2{
+
+}
+
+.charecter2{
+  
+}
+
+.charecter3{
+  
 }
